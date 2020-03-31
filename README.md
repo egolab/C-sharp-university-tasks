@@ -1,7 +1,13 @@
 # C-sharp-university-tasks
 Repository including tasks and projects from Design and Development of High Level Object Oriented Software university subject.
 
+<h3>Design Patterns</h3>
 <ul>
   <li>
-    <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/AbstractFactory/AbstractFactory">Abstract Factory Design Pattern</a> 
+    <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/FactoryMethod/FactoryMethod">Factory Method</a> 
   </li>
+  <li>
+    <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/AbstractFactory/AbstractFactory">Abstract Factory</a> 
+  </li>
+</ul>
+
