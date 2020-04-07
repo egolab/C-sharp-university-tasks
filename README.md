@@ -9,5 +9,11 @@ Repository including tasks and projects from Design and Development of High Leve
   <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/AbstractFactory/AbstractFactory">Abstract Factory</a> 
   </li>
+    <li>
+    <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Composite/Composite">Composite</a> 
+  </li>
+  <li>
+    <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Decorator">Decorator</a> 
+  </li>
 </ul>
 
