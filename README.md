@@ -15,5 +15,8 @@ Repository including tasks and projects from Design and Development of High Leve
   <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Decorator">Decorator</a> 
   </li>
+  <li>
+    <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Command/command">Command</a> 
+  </li>
 </ul>
 
