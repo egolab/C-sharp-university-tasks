@@ -1,7 +1,7 @@
-# C-sharp-university-tasks
-Repository including tasks and projects from Design and Development of High Level Object Oriented Software university subject.
+# Design Patterns
+Repository including C# implementations of popular Design Patterns.
 
-<h3>Design Patterns</h3>
+<h4>Creational Design Patterns</h4>
 <ul>
   <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/FactoryMethod/FactoryMethod">Factory Method</a> 
@@ -9,12 +9,23 @@ Repository including tasks and projects from Design and Development of High Leve
   <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/AbstractFactory/AbstractFactory">Abstract Factory</a> 
   </li>
-    <li>
+</ul>
+
+<h4>Structural Design Patterns</h4>
+<ul>
+  <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Composite/Composite">Composite</a> 
   </li>
   <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Decorator">Decorator</a> 
   </li>
+  <li>
+    <a href="https://github.com/egolab/Design-Patterns/tree/master/Adapter/Adapter">Decorator</a> 
+  </li>
+</ul>
+
+<h4>Behavioral Design Patterns</h4>
+<ul>  
   <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Command/command">Command</a> 
   </li>
