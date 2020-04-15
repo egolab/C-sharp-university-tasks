@@ -1,5 +1,4 @@
 # Design Patterns
-Repository including C# implementations of popular Design Patterns.
 
 <h4>Creational Design Patterns</h4>
 <ul>
