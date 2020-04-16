@@ -28,5 +28,8 @@
   <li>
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Command/command">Command</a> 
   </li>
+  <li>
+    <a href="https://github.com/egolab/Design-Patterns/tree/master/Observer/Observer">Observer</a> 
+  </li>
 </ul>
 
