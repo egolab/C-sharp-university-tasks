@@ -19,7 +19,7 @@
     <a href="https://github.com/egolab/C-sharp-university-tasks/tree/master/Decorator">Decorator</a> 
   </li>
   <li>
-    <a href="https://github.com/egolab/Design-Patterns/tree/master/Adapter/Adapter">Decorator</a> 
+    <a href="https://github.com/egolab/Design-Patterns/tree/master/Adapter/Adapter">Adapter</a> 
   </li>
 </ul>
 
