@@ -31,5 +31,8 @@
   <li>
     <a href="https://github.com/egolab/Design-Patterns/tree/master/Observer/Observer">Observer</a> 
   </li>
+  <li>
+    <a href="https://github.com/egolab/Design-Patterns/tree/master/Strategy/Strategy">Strategy</a> 
+  </li>
 </ul>
 
